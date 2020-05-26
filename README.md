@@ -21,6 +21,4 @@ Hello!
 
 This is primarily a non-code project, consisting of research, spreadsheets, papers, and presentations.
 
-We're using a Google Drive repository to store and manage these artifacts: https://tinyurl.com/possiblecorp
-
-Eventually we'll add a variety of applications to help manage operations for the proposed climate-healing facilities
+We're using a Google Drive repository to store and manage these artifacts: https://tinyurl.com/possiblecorp.
